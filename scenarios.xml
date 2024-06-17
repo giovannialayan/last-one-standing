@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenarios>
+    <scenariolist id="bloodbath">
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 finds a buttplug and a crossbow.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 kicks the shit out of fighter2 for a stack of Spongebob themed napkins.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 tries to steal a stick a butter from fighter2 but fails and screams at the sky that their father was right about them being a failure.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 kicks a bucket. (foreshadowing?????)
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 and fighter2 wrestle for a backpack, fighter1 accidentally touches fighter2's dick. They get like super awkward and just like leave.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="bloodbathFatal">
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 spontaneously combusts as the horn sounds because they couldn't take the pressure.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 and fighter2 fight over an empty revolver. fighter1 beats fighter2 to death with the empty revolver.
+        </scenario>
+        <scenario 
+        fighter1dead="true"  fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 falls on their own sword.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 pushes fighter2 into a precariously placed Master Sword.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="day">
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 receives a dildo from an unknown sponsor. they don't find it very amusing.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 shoots themself in the head.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 licks their wounds.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 receives a DS lite from an unknown sponsor named Ningrundo.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 sneaks up on fighter2 and tries to choke them but apologizes after realizing they're not into that sorta thing.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 says fighter2's trigger word and fighter2 becomes an unstoppable killing machine with a thirst for bloodshed.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 danced like nobody was watching. but people were and they looked like a fucking idiot
+        </scenario>
+    </scenariolist>
+    <scenariolist id="dayFatal">
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 shoots themself in the head.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 receives an armed land mine from an unknown sponsor.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 receives a contract to kill fighter2. fighter1 teleports behind fighter2 and nothing-personal-kid's them.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 brings a knife a to a gun fight and matrix dodges all of fighter2's bullets before trick stabbing them.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 trips on a leaf and dies.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 tries to spear fish but misses and spears themself
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 stabs fighter2 with a tree branch
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 uses glitch and breaks fighter2's code
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 infects and kills fighter2 with a gallon of aids their aquired from the army lost and found
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true" 
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 forces fighter2 to listen to paint drying on cassette. fighter2 does not respond well.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 topdecks pyroblast and kills fighter2
+        </scenario>
+    </scenariolist>
+    <scenariolist id="night">
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 finds a strip club in the forest and chooses to go inside. fighter1 gets a lap dance from a werid tentacle monster, they gain 10 hp.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 cries themself to sleep.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 considers suicide.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 befriends a bear and tells it to maul other tributes.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 tries to sleep but is kept awake by the constant ringing in their ears.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="nightFatal">
+        <scenario 
+        fighter1dead="true"  fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 makes the mistake of trying to answer the question who am me.
+        </scenario>
+        <scenario 
+        fighter1dead="true"  fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 joins a cult ritual and is sacraficed to the Nidhogg 2.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 is mauled by a bear and bleeds out.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            A falcon swoops down and fills fighter1 with an unnecessary amount of bullet holes with his dual miniguns.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 tries to climb a tree but is pushed off by a squirrel and dies.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 becomes the hacker '4Chan' and leaks fighter2's nudes.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 high fives fighter1. both die due to the resulting temporal black hole.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="feast">
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 immediately runs for the deep fried pig dick on a stick.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 destroys fighter2's memoirs in front of them because fighter1 is an asshole.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 steals fighter2's family photos because their has this weird fetish that has to do with pictures of the family of their enemies.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 is a pussy and decides not to go to the feast.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="feastFatal">
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 inserts the anal bead passed down from generation to generation but inserts it too far.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 kills fighter2 and eats their flesh for sustenance.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="true" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 suicide bombs the tributes' memoirs, killing fighter2
+        </scenario>
+    </scenariolist>
+    <scenariolist id="arenaIntro">
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            Rabid Riannas are let loose in the arena.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="arenaSurvive">
+        <scenario 
+        fighter1dead="false" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 bows down to the rabid Riannas.
+        </scenario>
+    </scenariolist>
+    <scenariolist id="arenaFatal">
+        <scenario 
+        fighter1dead="true" fighter2dead="false"
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 is overcome by a swarm of rabid Riannas and is eaten alive.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true"
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 and fighter2 are being chased by a pack of rabid Riannas. fighter1 trips fighter2 and leaves them to die.
+        </scenario>
+        <scenario 
+        fighter1dead="false" fighter2dead="true" 
+        fighter1kill="true" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="false" fighter2envDeath="false">
+            fighter1 screams "SETHBLING, BIG MONEY, ANIME" at the sky as they fight off several rabid Riannas and kills fighter2 by accident.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="false" 
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="false">
+            fighter1 is Nebraska'd to death by gaggle of rabid Riannas.
+        </scenario>
+        <scenario 
+        fighter1dead="true" fighter2dead="true" 
+        fighter1kill="false" fighter2kill="false" 
+        fighter1suicide="false" fighter2suicide="false" 
+        fighter1envDeath="true" fighter2envDeath="true">
+            fighter1 and fighter2 bang one final time before they are attacked by a tough crowd of rabid Riannas.
+        </scenario>
+    </scenariolist>
+</scenarios>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>last one standing</title>
+    <link id="pagestyle" rel="stylesheet" type="text/css" href="setup.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- set up page -->
+    <div id="setup">
+      <p id="numFightersText">number of fighters</p>
+      <input type="number" id="numFighters" autocomplete="off" />
+      <p id="importFightersText">import fighters</p>
+      <textarea id="import" wrap="hard"></textarea>
+      <button id="save">submit</button>
+      <div id="fighters"></div>
+      <button id="export">export fighters</button>
+      <div id="loadedFighters"></div>
+      <br />
+      <button id="start">start game</button>
+    </div>
+
+    <!-- game page -->
+    <div id="game"></div>
+
+    <!-- stats page -->
+    <div id="stats"></div>
+
+    <!-- used for both game and stats pages -->
+    <br />
+    <button id="continue">continue</button>
+  </body>
+</html>
